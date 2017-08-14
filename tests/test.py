@@ -3,7 +3,7 @@
 
 from unittest import TestCase
 from mock import patch
-#import Test_Project.calci
+import Test_Project.calci
 
 class TestCalculator(TestCase):
 	"""abcd... """
